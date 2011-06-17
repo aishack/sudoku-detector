@@ -1,0 +1,8 @@
+Here's the Visual Studio project for the SuDoKu detection tutorial at
+AI Shack. If you're not using Visual Studio, use the code and create a
+new project if your IDE. Make sure you link to the OpenCV libraries.
+
+Do whatever you want with the code :P
+
+Here's the tutorial that this code came with:
+http://www.aishack.in/2010/08/sudoku-grabber-with-opencv
